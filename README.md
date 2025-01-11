@@ -13,7 +13,7 @@ Este proyecto es un script de Python que obtiene tareas pendientes desde Notion 
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/notion-reminder-bot.git
+   git clone https://github.com/jmatias2411/Recordatorios_Notion.git
    cd notion-reminder-bot
    ```
 
@@ -46,7 +46,7 @@ Este proyecto es un script de Python que obtiene tareas pendientes desde Notion 
 
 1. **Ejecuta el script**:
    ```bash
-   python notion_bot.py
+   python recuerdame.py
    ```
 
 2. El script obtendrá las tareas desde la base de datos de Notion que tengan el estado **Pendiente** o **Sin Empezar** y enviará un correo HTML con los detalles de estas tareas.
