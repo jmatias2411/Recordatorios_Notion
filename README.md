@@ -1,4 +1,4 @@
-# Notion Task Reminder Bot
+# Bot de Recordatorios con Notion!
 
 Este proyecto es un script de Python que obtiene tareas pendientes desde Notion y envía un correo electrónico con los recordatorios. El script filtra las tareas según su estado (Pendiente o Sin Empezar) y las muestra de manera atractiva en formato HTML.
 
